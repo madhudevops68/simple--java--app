@@ -41,7 +41,7 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id>
+            <id>nexus-test-releases</id>
             <url>http://51.20.76.147:8081/repository/maven-fca-private-repo//</url>
         </repository>
     </distributionManagement>
